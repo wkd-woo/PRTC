@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rest-api-lab-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rest-api-lab-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -37,7 +37,7 @@ C언어와 C++에서는 열거체를 사용할 수 있지만, JDK 1.5 이전의 
 > ```열거체이름.상수이름```
 
 > 예제 <br>
-> ```java
+> ```
 > Rainbow.RED
 > ```
 <br>
@@ -64,6 +64,19 @@ C언어와 C++에서는 열거체를 사용할 수 있지만, JDK 1.5 이전의 
 >   public int getValue() { return value; }
 > }
 
+---
+
+### 대표적인 Enum 메소드
+
+Enum 클래스의 메소드는 다음과 같다.
+
+|  메소드 | 설명 |
+|:---:|:---:|
+| `static E values()` | 해당 열거체의 모든 상수를 저장한 배열을 생성하여 반환 |
+| `static E valueOf(String name)`  | 전달된 문자열과 일치하는 해당 열거체의 상수를 반환함 | 
+| `protected void finalize()` | 해당 Enum 클래스가 final 메소드를 가질 수 없게 됨 |
+| `String name()` | 해당 열거체 상수의 이름을 반환함 |
+| `int ordinal()` | 해당 열거체 상수가 열거체 정의에서 정의된 순서(0부터 시작)를 반환함 |
 
 <br><br>
 
