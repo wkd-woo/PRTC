@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/Concurrency.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ObjectComparing/ObjectComparing.iml" filepath="$PROJECT_DIR$/ObjectComparing/ObjectComparing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA/JAVA.iml" filepath="$PROJECT_DIR$/JAVA/JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PRTC.iml" filepath="$PROJECT_DIR$/.idea/PRTC.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
     </modules>
   </component>
 </project>
